@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/himanshurj85" target="blank"><img src="https://img.shields.io/twitter/follow/himanshurj85?logo=twitter&style=for-the-badge" alt="himanshurj85" /></a> </p>
 
-- 🔭 I’m currently working on **Image Processing**
+- 🔭 I’m currently working on **Machine Learning**
 
-- 💬 Ask me about **Windows , Andriod**
+- 💬 **On a scale of 1-10 how funny would you say you are?**
 
 - 📫 How to reach me **himanshurj85@gmail.com**
 
-- ⚡ Fun fact **I Think I am Capable Of Anything.**
+- ⚡ Fun fact ** Too much water can kill you **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
