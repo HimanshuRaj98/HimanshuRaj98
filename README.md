@@ -14,8 +14,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuRaj98&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuRaj98&theme=highcontrast&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=HimanshuRaj98&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 <!-- 
+![](https://github-readme-stats.vercel.app/api?username=HimanshuRaj98&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HimanshuRaj98&theme=alduin&no-frame=false&no-bg=false&margin-w=2)
 
