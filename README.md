@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Raj</h1>
+<a href="https://github.com/HimanshuRaj98">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Himanshu+Raj;Researcher+%7C+M.Tech+Student+%7C+Computer+Vision;Web+ Development+%7C+Software+Engineer+%7C+React-JS" alt="Typing SVG" />
+</a>
 
-# 💫 About Me:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshuraj98&label=Profile%20views&color=0e75b6&style=flat" alt="himanshuraj98" /> </p>
 💬 I'm a final-year Computer Science student at the National Institute of Technology, Jamshedpur. I'm passionate about Coding, Travelling, and Reading. Currently, diving deep into Web development.<br>📫 Feel free to reach me via email for engaging discussions on Frontend Web dev and App dev. I'm always up for a chat!<br>🔥 Let's connect and talk about all things related to web development. I'm also in the process of mastering Web development, so we can learn together!<br>⚡ Fun fact: I merge tech and music for a unique twist.
 
@@ -10,9 +12,9 @@
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuRaj98&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=HimanshuRaj98&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuRaj98&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuRaj98&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=HimanshuRaj98&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 <!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HimanshuRaj98&theme=alduin&no-frame=false&no-bg=false&margin-w=2)
