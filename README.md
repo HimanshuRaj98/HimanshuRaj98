@@ -16,7 +16,7 @@
 
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31wvaf2tvu7fwvcsktpchawc4die)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wvaf2tvu7fwvcsktpchawc4die&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31wvaf2tvu7fwvcsktpchawc4die)
 
 </td></tr> </table>
 
